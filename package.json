@@ -1,0 +1,23 @@
+{
+  "name": "google-adapter-service",
+  "version": "1.0.0",
+  "description": "GetGoogleCalendarEventsApi in NodeJS",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JackieDev/google-adapter-service.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JackieDev/google-adapter-service/issues"
+  },
+  "homepage": "https://github.com/JackieDev/google-adapter-service#readme",
+  "dependencies": {
+    "express": "^4.16.0"
+  }
+}
